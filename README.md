@@ -45,7 +45,7 @@
 
 ## 📫 Let's Connect  
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/sizan22/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     
@@ -59,7 +59,13 @@
   </a>  
 </p>
 
+## 🔥 Streak Stats  
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sizan458&theme=radical&hide_border=true" alt="GitHub Streak">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Sizan458&color=blue&style=for-the-badge" alt="Profile Views">
+</p>
 
 
 ## 📊 GitHub Stats  
@@ -68,13 +74,4 @@
 
 ## 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sizan458&theme=algolia&no-frame=true&no-bg=true&margin-w=4)  
-
-## 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sizan458&theme=radical)  
-![Profile Views](https://komarev.com/ghpvc/?username=Sizan458&color=blue&style=flat-square)
-
-
-## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sizan22/)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Sizan.mahmu)
 
