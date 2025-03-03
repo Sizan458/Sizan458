@@ -6,7 +6,7 @@
 - 🌱 I'm currently working on **Next.js projects**  
 - 🔗 I'm learning **Pyrhon**  
 - 💬 Ask me about **MERN, Next.js, Prisma, Tailwind CSS**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-profile)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sizan22/) 
 
 ## 🚀 Skills  
 
@@ -52,10 +52,6 @@
   </a>  
   <a href="https://www.facebook.com/Sizan.mahmu" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>  
- 
-  <a href="sizanm852@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>  
 </p>
 
