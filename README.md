@@ -75,11 +75,16 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sizan458&theme=radical&hide_border=true" width="70%" alt="GitHub Streak">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Sizan458&color=blue&style=for-the-badge" alt="Profile Views">
+  
+  <img src="https://komarev.com/ghpvc/?username=Sizan458&color=blue&style=for-the-badge"  width="70%" alt="Profile Views">
 </div>
 
 
 
 ## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sizan458&theme=algolia&no-frame=true&no-bg=true&margin-w=4)  
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sizan458&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2" alt="GitHub Trophies" width="80%">
+</div>
+
 
