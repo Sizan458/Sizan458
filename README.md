@@ -59,6 +59,14 @@
   </a>  
 </p>
 
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sizan458&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sizan458&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages">
+</div>
+
+
 ## 🔥 Streak Stats  
 
 <p align="center">
@@ -68,9 +76,7 @@
 </p>
 
 
-## 📊 GitHub Stats  
-![Sizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sizan458&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sizan458&layout=compact&theme=radical)  
+
 
 ## 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sizan458&theme=algolia&no-frame=true&no-bg=true&margin-w=4)  
