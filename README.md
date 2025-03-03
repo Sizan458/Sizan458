@@ -17,6 +17,7 @@
 
 ## 🔥 Streak Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sizan458&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=Sizan458&color=blue&style=flat-square)
 
 
 ## 📫 Let's Connect  
