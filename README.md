@@ -59,6 +59,8 @@
   </a>  
 </p>
 
+
+
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -67,14 +69,14 @@
 </div>
 
 
+
 ## 🔥 Streak Stats  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sizan458&theme=radical&hide_border=true" alt="GitHub Streak">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sizan458&theme=radical&hide_border=true" width="70%" alt="GitHub Streak">
   <br>
   <img src="https://komarev.com/ghpvc/?username=Sizan458&color=blue&style=for-the-badge" alt="Profile Views">
-</p>
-
+</div>
 
 
 
