@@ -18,9 +18,6 @@
 ## 🔥 Streak Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sizan458&theme=radical)  
 
-## 🚀 Featured Projects  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizan458&repo=your-repo-name&theme=radical)](https://github.com/Sizan458/your-repo-name)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sizan458&repo=your-second-repo&theme=radical)](https://github.com/Sizan458/your-second-repo)  
 
 ## 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
